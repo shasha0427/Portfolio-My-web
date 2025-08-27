@@ -307,14 +307,14 @@ li::marker{
     align-items: center;
     flex-direction: column;
     width: 80%;
-    top: 80%;
+    top:80%;
 }
 #abt-skill{
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 1000px;
+    top: 920px;
 }
 #skill-sec{
   position: relative;
@@ -367,10 +367,10 @@ li::marker{
 
    }
    #abt-skill{
-    top: 1200px;
+    top: 1150px;
    }
    #skill-sec{
-    top: 1180px;
+    top: 1120px;
    }
    #edu-title-main{
     top: 1070px;

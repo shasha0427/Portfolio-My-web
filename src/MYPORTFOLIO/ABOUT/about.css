@@ -314,11 +314,11 @@ li::marker{
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 920px;
+    top: 1000px;
 }
 #skill-sec{
   position: relative;
-  top: 950px;
+  top: 1020px;
 }
 #skill-sec span{
   width: 25%;
